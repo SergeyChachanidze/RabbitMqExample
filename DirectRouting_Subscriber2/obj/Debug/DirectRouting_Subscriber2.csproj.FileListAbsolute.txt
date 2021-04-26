@@ -1,0 +1,15 @@
+E:\Projects\rabbitMq\DirectRouting_Subscriber2\bin\Debug\DirectRouting_Subscriber2.exe.config
+E:\Projects\rabbitMq\DirectRouting_Subscriber2\bin\Debug\DirectRouting_Subscriber2.exe
+E:\Projects\rabbitMq\DirectRouting_Subscriber2\bin\Debug\DirectRouting_Subscriber2.pdb
+E:\Projects\rabbitMq\DirectRouting_Subscriber2\bin\Debug\Common.dll
+E:\Projects\rabbitMq\DirectRouting_Subscriber2\bin\Debug\RabbitMQ.Client.dll
+E:\Projects\rabbitMq\DirectRouting_Subscriber2\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\rabbitMq\DirectRouting_Subscriber2\bin\Debug\Common.pdb
+E:\Projects\rabbitMq\DirectRouting_Subscriber2\bin\Debug\Common.dll.config
+E:\Projects\rabbitMq\DirectRouting_Subscriber2\bin\Debug\RabbitMQ.Client.xml
+E:\Projects\rabbitMq\DirectRouting_Subscriber2\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\rabbitMq\DirectRouting_Subscriber2\obj\Debug\DirectRouting_Subscriber2.csprojAssemblyReference.cache
+E:\Projects\rabbitMq\DirectRouting_Subscriber2\obj\Debug\DirectRouting_Subscriber2.csproj.CoreCompileInputs.cache
+E:\Projects\rabbitMq\DirectRouting_Subscriber2\obj\Debug\DirectRouting_Subscriber2.csproj.CopyComplete
+E:\Projects\rabbitMq\DirectRouting_Subscriber2\obj\Debug\DirectRouting_Subscriber2.exe
+E:\Projects\rabbitMq\DirectRouting_Subscriber2\obj\Debug\DirectRouting_Subscriber2.pdb

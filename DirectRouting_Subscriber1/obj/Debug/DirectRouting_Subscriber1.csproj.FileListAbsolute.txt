@@ -1,0 +1,15 @@
+E:\Projects\rabbitMq\DirectRouting_Subscriber1\bin\Debug\DirectRouting_Subscriber1.exe.config
+E:\Projects\rabbitMq\DirectRouting_Subscriber1\bin\Debug\DirectRouting_Subscriber1.exe
+E:\Projects\rabbitMq\DirectRouting_Subscriber1\bin\Debug\DirectRouting_Subscriber1.pdb
+E:\Projects\rabbitMq\DirectRouting_Subscriber1\bin\Debug\Common.dll
+E:\Projects\rabbitMq\DirectRouting_Subscriber1\bin\Debug\RabbitMQ.Client.dll
+E:\Projects\rabbitMq\DirectRouting_Subscriber1\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\rabbitMq\DirectRouting_Subscriber1\bin\Debug\Common.pdb
+E:\Projects\rabbitMq\DirectRouting_Subscriber1\bin\Debug\Common.dll.config
+E:\Projects\rabbitMq\DirectRouting_Subscriber1\bin\Debug\RabbitMQ.Client.xml
+E:\Projects\rabbitMq\DirectRouting_Subscriber1\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\rabbitMq\DirectRouting_Subscriber1\obj\Debug\DirectRouting_Subscriber1.csprojAssemblyReference.cache
+E:\Projects\rabbitMq\DirectRouting_Subscriber1\obj\Debug\DirectRouting_Subscriber1.csproj.CoreCompileInputs.cache
+E:\Projects\rabbitMq\DirectRouting_Subscriber1\obj\Debug\DirectRouting_Subscriber1.csproj.CopyComplete
+E:\Projects\rabbitMq\DirectRouting_Subscriber1\obj\Debug\DirectRouting_Subscriber1.exe
+E:\Projects\rabbitMq\DirectRouting_Subscriber1\obj\Debug\DirectRouting_Subscriber1.pdb

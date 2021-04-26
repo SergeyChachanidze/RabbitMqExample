@@ -1,0 +1,15 @@
+E:\Projects\rabbitMq\PublishSubscribe_Subscriber\bin\Debug\PublishSubscribe_Subscriber.exe.config
+E:\Projects\rabbitMq\PublishSubscribe_Subscriber\bin\Debug\PublishSubscribe_Subscriber.exe
+E:\Projects\rabbitMq\PublishSubscribe_Subscriber\bin\Debug\PublishSubscribe_Subscriber.pdb
+E:\Projects\rabbitMq\PublishSubscribe_Subscriber\bin\Debug\Common.dll
+E:\Projects\rabbitMq\PublishSubscribe_Subscriber\bin\Debug\RabbitMQ.Client.dll
+E:\Projects\rabbitMq\PublishSubscribe_Subscriber\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\rabbitMq\PublishSubscribe_Subscriber\bin\Debug\Common.pdb
+E:\Projects\rabbitMq\PublishSubscribe_Subscriber\bin\Debug\Common.dll.config
+E:\Projects\rabbitMq\PublishSubscribe_Subscriber\bin\Debug\RabbitMQ.Client.xml
+E:\Projects\rabbitMq\PublishSubscribe_Subscriber\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\rabbitMq\PublishSubscribe_Subscriber\obj\Debug\PublishSubscribe_Subscriber.csproj.CoreCompileInputs.cache
+E:\Projects\rabbitMq\PublishSubscribe_Subscriber\obj\Debug\PublishSubscribe_Subscriber.csproj.CopyComplete
+E:\Projects\rabbitMq\PublishSubscribe_Subscriber\obj\Debug\PublishSubscribe_Subscriber.exe
+E:\Projects\rabbitMq\PublishSubscribe_Subscriber\obj\Debug\PublishSubscribe_Subscriber.pdb
+E:\Projects\rabbitMq\PublishSubscribe_Subscriber\obj\Debug\PublishSubscribe_Subscriber.csprojAssemblyReference.cache
